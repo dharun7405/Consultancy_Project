@@ -62,14 +62,15 @@ const Footer = () => {
               <li className="flex items-start">
                 <MapPinIcon className="h-5 w-5 mr-3 text-primary shrink-0 mt-0.5" />
                 <span className="text-gray-400">
-                  123 Infrastructure Avenue, <br />
-                  Bangalore, Karnataka 560001
+                  NO.9, Deivanayaki Nagar 4th Street, <br />
+                  Sanganoor Road, Coimbatore, <br />
+                  Tamil Nadu, India - 641006
                 </span>
               </li>
               <li className="flex items-center">
                 <PhoneIcon className="h-5 w-5 mr-3 text-primary shrink-0" />
                 <a href="tel:+917899887766" className="text-gray-400 hover:text-white">
-                  +91 7899 887766
+                  +91 8148170052
                 </a>
               </li>
               <li className="flex items-center">

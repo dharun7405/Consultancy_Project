@@ -26,8 +26,9 @@ const Contact = () => {
                   <div className="ml-4">
                     <h4 className="font-medium text-gray-800">Our Office</h4>
                     <p className="text-gray-600">
-                      123 Infrastructure Avenue, <br />
-                      Bangalore, Karnataka 560001
+                      NO.9, Deivanayaki Nagar 4th Street, <br />
+                      Sanganoor Road, Coimbatore, <br />
+                      Tamil Nadu, India - 641006
                     </p>
                   </div>
                 </div>
@@ -53,7 +54,7 @@ const Contact = () => {
                       href="tel:+917899887766" 
                       className="text-gray-600 hover:text-primary"
                     >
-                      +91 7899 887766
+                      +91 8148170052
                     </a>
                   </div>
                 </div>
