@@ -88,7 +88,7 @@ const Contact = () => {
               
               <div className="rounded-lg overflow-hidden h-80 bg-gray-100">
                 <iframe 
-                  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d248849.84916296514!2d77.49085452863511!3d12.95396421631447!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae1670c9b44e6d%3A0xf8dfc3e8517e4fe0!2sBengaluru%2C%20Karnataka%2C%20India!5e0!3m2!1sen!2sus!4v1661499030465!5m2!1sen!2sus" 
+                  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3263.558710824797!2d76.96602177823961!3d11.033564562096753!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ba8585e844320d1%3A0xe627ebb0da5867e9!2s9%2C%20Deivanayaki%20Nagar%204th%20St%2C%20Rayappa%20layout%2C%20Ganapathi%2C%20Coimbatore%2C%20Tamil%20Nadu%20641006!5e0!3m2!1sen!2sin!4v1744627315150!5m2!1sen!2sin" 
                   width="100%" 
                   height="100%" 
                   style={{ border: 0 }} 
